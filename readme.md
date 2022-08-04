@@ -1,1 +1,1 @@
-Learn Git repository
+GitLearningRepo
